@@ -1,0 +1,43 @@
+# Get Start With Github
+
+- Author: Cheng Zhang, A GitHub Beginner
+- Date: 1/27/2016
+- GIS Lab, Kent State University
+- Supervisor: Eric Shook
+
+
+* It will take about 1 hour to quickly go through and try github using following steps 1,2 and 4.
+* If with experience, there are two videos in step 4(0), 19 mins and 4(1), 11 mins, which are enough for a quick start.
+
+1. Create account, download and install local software
+2. Try webPage interface (4 basic tutorial). https://github.com/
+	Notice:
+	(1) Tutorials probably contains difference GUI than the version we are using.
+	(2) .md format (Markdown basics: https://daringfireball.net/projects/markdown/basics: )
+3. Try Destop interface (Not recommanded. Just using webpage interface and shell scripts is enough for our work)
+4. Console scripts
+	(0)If confused for the above, check this video first: https://www.youtube.com/watch?v=0fKg7e37bQE
+	(1)Video: https://www.youtube.com/watch?v=oFYyTZwMyAg
+	(2)If the video is too fast, Try Git: https://try.github.io/levels/1/challenges/1
+	(3)Git Cheat Sheet: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+5. Here is the best tutorial resource I have found about Github. It takes a long time to finish the whole tutorial, but if we need learn in deep, we need it:
+https://www.codecademy.com/learn/learn-git
+
+
+6. Collisions
+How to avoid:
+1. Always avoid multiple people modify the same part of file at the same time, which means assigning tasks clearly.
+2. It is highly recommanded to create a new file, when there will be a lot of modification, not just adding lines in a certain file.
+
+
+Command line:
+https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/
+
+User Interface: Meld
+http://meldmerge.org/
+
+
+
+Resources:
+
+https://help.github.com/articles/good-resources-for-learning-git-and-github/
