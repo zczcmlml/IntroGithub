@@ -1,7 +1,7 @@
 # Solve Permission Problem and Http 403 Error
 - Cheng Zhang 02/19/2016
 - The file works for users using github through ssh
-- I just tried on Jay's machine using Putty
+- I just tried on Jay's machine using Putty. It probably is not a universal solution.
 - Here, I use pcml repository as an example
 
 ### Http 403 Error
@@ -23,5 +23,16 @@
 4. Save and quit
 
 ### Solve Permission Problem
-1. 
+1. Look at your SSH pubkey
+  
+  ```
+  cat ~/.ssh/id_rsa.pub
+  ```
+  
+  ![show ssh pubkey](https://github.com/zczcmlml/IntroGithub/blob/master/cap_cat_key.PNG)
 
+2. If the pubkey shows up, skip this step
+
+  Follow the Github Help: 
+  [Generate a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key/)
+  
