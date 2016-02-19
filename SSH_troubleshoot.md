@@ -31,8 +31,14 @@
   
   ![show ssh pubkey](https://github.com/zczcmlml/IntroGithub/blob/master/cap_cat_key.PNG)
 
-2. If the pubkey shows up, skip this step
+2. If the pubkey does show up, skip this step
 
   Follow the Github Help: 
   [Generate a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key/)
   
+  And look at your SSH pubkey again
+
+3. Follow the Github Help:
+  [Adding a new SSH key to your Github account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+4. Now try the `git push` command 
