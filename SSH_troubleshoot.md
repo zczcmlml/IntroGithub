@@ -1,8 +1,8 @@
 # Solve Permission Problem and Http 403 Error
 - Cheng Zhang 02/19/2016
-- The file works for users using github through ssh
+- The file works for users using github through SSH
 - I just tried on Jay's machine using Putty. It probably is not a universal solution.
-- Here, I use pcml repository as an example
+- Here, I use PCML repository as an example
 
 ### Http 403 Error
 1. Go to the repository folder where contains .git folder
