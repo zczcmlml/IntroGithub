@@ -22,7 +22,8 @@
   
 4. Save and quit
 
-### Solve Permission Problem
+### Solve Permission Denied Problem (publickey)
+
 1. Look at your SSH pubkey
   
   ```
